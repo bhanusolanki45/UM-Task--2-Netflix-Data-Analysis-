@@ -8,25 +8,25 @@ This project explores and analyzes a Netflix dataset using Python in a Jupyter N
 # 📁 Dataset
 The dataset used is netflix1.csv, which includes metadata of Netflix content such as:
 
-Title
+* Title
 
-Type (Movie/TV Show)
+* Type (Movie/TV Show)
 
-Director
+* Director
 
-Cast
+* Cast
 
-Country
+* Country
 
-Date added
+* Date added
 
-Release year
+* Release year
 
-Duration
+* Duration
 
-Genres (listed_in)
+* Genres (listed_in)
 
-Description
+* Description
 
 # 🧹 Data Cleaning
 Key preprocessing steps:
@@ -109,11 +109,9 @@ The U.S. leads in content production followed by India.
 Word clouds revealed frequent use of keywords like "love", "life", and "family".
 
 # 🛠️ Technologies Used
-Python (Pandas, Matplotlib, Seaborn, WordCloud)
+* Python (Pandas, Matplotlib, Seaborn, WordCloud)
 
-Jupyter Notebook
-
-Google Colab
+* Google Colab
 
 # ✅ Project Outcome
 The project provides a solid understanding of Netflix's content distribution over time, across countries and genres. It also offers a base for building recommendation systems or deeper content analytics.
