@@ -113,7 +113,7 @@ Insight: Words like love, life, family, murder, and friendship frequently appear
 
 * Word clouds revealed frequent use of keywords like "love", "life", and "family".
 
-# 🛠️ Technologies Used
+# 🛠️ Tools Used
 * Python (Pandas, Matplotlib, Seaborn, WordCloud)
 
 * Google Colab
