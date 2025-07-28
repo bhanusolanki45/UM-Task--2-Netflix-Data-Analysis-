@@ -60,13 +60,13 @@ The analysis includes:
 Utilized Matplotlib, Seaborn, and WordCloud to create:
 
 ### Bar plots - Rating Distribution
-    What it shows: The number of titles available for each rating category (like TV-MA, PG, R, etc.).
+   What it shows: The number of titles available for each rating category (like TV-MA, PG, R, etc.).
 
 Insight: TV-MA (Mature Audience) and TV-14 are the most common ratings, indicating Netflix content targets a mature audience more than children.
 
 
 ### Count plots  – Rating Categories
-    What it shows: Frequency of each rating using bars.
+   What it shows: Frequency of each rating using bars.
 
 Insight: Confirms that Netflix has a large volume of adult and teen-friendly content, and relatively fewer shows targeted at children.
 
